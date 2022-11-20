@@ -1,0 +1,92 @@
+body {
+  background-color: #dfd4cd;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  border: 1px solid #000;
+  height: 800px;
+  width: 1000px;
+  margin-left: 400px;
+  margin-top: 50px;
+  position: relative;
+}
+.inner-con {
+  display: flex;
+}
+.inner {
+  align-self: center;
+}
+
+.outer {
+  align-self: center;
+  margin-left: 20px;
+}
+.cr {
+  display: flex;
+  justify-content: center;
+}
+.over {
+  align-self: center;
+  margin-left: 20px;
+}
+.over2 {
+  align-self: center;
+  margin-left: 20px;
+}
+
+.square {
+  width: 150px;
+  height: 150px;
+  background-color: #fff;
+  box-shadow: 3px 3px 10px 5px #7bb6e0;
+  margin-bottom: 15px;
+}
+
+.square-2 {
+  width: 150px;
+  height: 150px;
+  background-color: #fff;
+  box-shadow: 3px 3px 10px 5px #7bb6e0;
+}
+
+.square-3 {
+  width: 150px;
+  height: 150px;
+  background-color: #fff;
+  box-shadow: 3px 3px 10px 5px #7bb6e0;
+  margin-bottom: 15px;
+}
+
+.square-4 {
+  width: 150px;
+  height: 150px;
+  background-color: #fff;
+  box-shadow: 3px 3px 10px 5px #7bb6e0;
+}
+
+.square-5 {
+  width: 150px;
+  height: 150px;
+  background-color: #ffdae9;
+}
+
+.square-6 {
+  width: 150px;
+  height: 150px;
+  background-color: #ffdae9;
+}
+.square-7 {
+  width: 150px;
+  height: 150px;
+  background-color: #ffdae9;
+}
+.square-8 {
+  width: 150px;
+  height: 150px;
+  background-color: #ffdae9;
+}
+.inner-con:hover {
+  align-items: flex-start;
+}
